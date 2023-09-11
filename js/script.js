@@ -23,7 +23,7 @@ class Guitarra {
   }
 }
 
-//Array de objetos
+//Array de objetos.
 const guitarras = [
   {
     id: 0,
